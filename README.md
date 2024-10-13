@@ -13,5 +13,5 @@ There are three observations:
 2. The 9V battery represent the chemical battery.
 3. Arduino Uno is supplied energy by 9V battery.
 
-![Circuit](ChemEcar2024Med/diagram.png)
+![Circuit](diagram.png)
 
