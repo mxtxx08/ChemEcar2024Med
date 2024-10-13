@@ -1,4 +1,6 @@
-# What's Chem-E-car
+![logo](logo.jpeg)
+
+# What's Chem-E-car 🚗
 
 Chem-E-Car is a competition that require to design and create a prototype of a car propelled and braked by chemical energy.
 
@@ -6,7 +8,16 @@ Chem-E-Car is a competition that require to design and create a prototype of a c
 
 Within src you will find the main Arduino code of 2024 competition in Peru - Qusco by Universidad Nacional Med - team.
 
-# Diagram
+# Electronic components 📄
+ - Arduino Uno
+ - Laser sensor KY-008
+ - LDR sensor KY-018
+ - Single channel relay
+ - DC motor x2
+ - 9V Battery
+ - Switch
+
+# Diagram ✏️
 
 There are three observations: 
 1. Relay is connect in normally open.
