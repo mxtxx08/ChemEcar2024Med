@@ -20,9 +20,9 @@ Within src you will find the main Arduino code of 2024 competition in Peru - Qus
 # Diagram ✏️
 
 There are three observations: 
-1. Relay is connect in normally open.
+1. Relay is connect as normally open.
 2. The 9V battery represent the chemical battery.
-3. Arduino Uno is supplied energy by 9V battery.
+3. Arduino Uno is supplied energy by a external 9V battery.
 
 ![Circuit](diagram.png)
 
