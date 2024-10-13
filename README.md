@@ -2,11 +2,11 @@
 
 # What's Chem-E-car 🚗
 
-Chem-E-Car is a competition that require to design and create a prototype of a car propelled and braked by chemical energy.
+Chem-E-Car is a competition that requires designing and creating a prototype of a car propelled and braked by chemical energy. In 2024, the competition took place in Cusco, Peru.
 
 # What's included
 
-Within src you will find the main Arduino code of 2024 competition in Peru - Qusco by Universidad Nacional Med - team.
+Within src you will find the main Arduino code.
 
 # Electronic components 📄
  - Arduino Uno
