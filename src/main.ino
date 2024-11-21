@@ -1,8 +1,8 @@
 //Definition
 
-int Ldr = 4;
-int Laser = 5;
-int Motors = 6;
+const byte Ldr = 4;
+const byte Laser = 5;
+const byte Motors = 6;
 
 void setup() {
  pinMode(Ldr,INPUT);
